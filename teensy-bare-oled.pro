@@ -1,4 +1,4 @@
-update=Mon 16 May 2016 09:37:02 PM CDT
+update=Wed Mar  1 00:28:52 2017
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/pdp7/dev/oshpark/wickerlib/libraries/wickerlib
+LibName31=/home/pdp7/dev/oshpark/contrib-kicad_parts/disp-oled-EastRising/er-oled0.91-3
